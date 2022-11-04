@@ -1,5 +1,5 @@
 # Vikeylayout
-TELEX-LIKE KEYBOARD LAYOUT FOR XKB-VIETNAMESE
+Telex-like Vietnamese keyboard layout for XKB-X11
 
 
 Current layouts:
